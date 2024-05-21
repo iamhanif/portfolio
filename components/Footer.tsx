@@ -37,7 +37,7 @@ function Footer() {
               key={id}
               className="w-10 h-10 flex justify-center items-center cursor-pointer backdrop-filter backdrop-blur-lg saturate-180 bg-opqcity-75 bg-black-200 rounded-lg border border-black-300"
             >
-              <img src={img} alt={id} width={20} height={20} />
+              <img src={img} alt="images" width={20} height={20} />
             </div>
           ))}
         </div>
